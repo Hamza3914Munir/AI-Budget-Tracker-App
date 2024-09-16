@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>267363955785-q7vmbi9las945p0cvnrgt8t9kthfrh9n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.267363955785-q7vmbi9las945p0cvnrgt8t9kthfrh9n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>267363955785-d7fhgtnekdumcq1qs964v3uhjdg7bdef.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAhyt920U0LCjo0tBOsenVZZoUQjKRJJ2Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>267363955785</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.budgeTrackerApp</string>
+	<key>PROJECT_ID</key>
+	<string>budge-tracker-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>budge-tracker-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:267363955785:ios:0958386d4f405f48967b98</string>
+</dict>
+</plist>

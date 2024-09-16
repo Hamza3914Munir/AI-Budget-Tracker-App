@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "267363955785",
+    "project_id": "budge-tracker-app",
+    "storage_bucket": "budge-tracker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267363955785:android:036824ecb31f537e967b98",
+        "android_client_info": {
+          "package_name": "com.example.budge_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267363955785-d7fhgtnekdumcq1qs964v3uhjdg7bdef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.budge_tracker_app",
+            "certificate_hash": "c26dc89bed608292014e05e6cc62953012266920"
+          }
+        },
+        {
+          "client_id": "267363955785-4b5k2p46rb123nh6d8l2mbbinob25s30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFu3KY37-970Q-PD3HR6mSIeczDOhYiNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267363955785-4b5k2p46rb123nh6d8l2mbbinob25s30.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267363955785-q7vmbi9las945p0cvnrgt8t9kthfrh9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.budgeTrackerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

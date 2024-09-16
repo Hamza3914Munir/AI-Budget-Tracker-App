@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">774608571248605</string>
+    <string name="fb_login_protocol_scheme">fb774608571248605</string>
+    <string name="facebook_client_token">a1cf1f0a4d0ca6d81916fd1cc6bd0aea</string>
+    <string name="app_name">"Hamza Munir"</string>
+
+</resources>
+
+
